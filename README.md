@@ -19,3 +19,7 @@ You can install the required library using pip:
 
 ```sh
 pip install pyproj
+
+git clone https://github.com/yourusername/utm-to-latlong-converter.git
+
+cd utm-to-latlong-converter
